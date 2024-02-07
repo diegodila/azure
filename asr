@@ -1,0 +1,69 @@
+1.1 Consigo dar um nome a minha assinatura azure?
+sim 
+
+1.2 voce precisa de uma conta associada ao email da empresa?
+sim 
+
+1.3 voce precisa adicionar um plano de suporte?
+sim 
+
+1.4 quando voce tem um plano de suporte voce tem acesso ao que?
+aos tecnicos e engenheiros da azure
+
+1.5 quais planos de suporte que temos?
+basic, developer, default/standard, ms azure professional direct
+
+1.6 o plano de suporte basic cobre o que?
+suporte ao gerenciamento de assinatura e cobrança sem suporte tecnico
+
+9.1 quando temos um servidor fisico, quais são os 3 principais recursos que temos nele?
+memory, cpu and disk
+
+9.2 o que as empresas fazem para ter os recursos de hardware em um servidor dimensionado corretamente?
+compram uma maquina com recursos muito maior que o necessario
+
+9.3 o que os provedores clouds fazem para solucionar o problema de servidores?
+elas ja tem servidores integrados que é disponibilizado através de uma vm, com memory, cpu and disk
+
+9.4 dentro dos provedores cloud o que fazemos quando precisamos alocar mais recursos de memoria, cpu ou disco?
+através do painel de configuração da maquina conseguimos fazer o aumento ou diminuição de recursos
+
+9.5 em cloud computing precisamos nos preocupar com a estrutura da maquina/servidor?
+não, energia, temperatura e backup é por conta da provedora cloud
+
+9.6 no segmento de vms qual é a unidade de medida para cobrança?
+é cobrado por segundos
+
+10.1 quais sao os 3 tipos de modelos de cloud que podemos usar na azure?
+iaas, paas and saas
+
+10.2 what is IAAS?
+infrastructure as a service (physical server)
+
+10.3 what is paas?
+platform as a service (application cdn(content delivery network) cosmo db)
+
+10.4 what is saas?
+software as a service (office 365)
+
+12.1 quais os 3 tipos de cloud?
+private, public, hybrid
+
+12.2 o que é uma private cloud?
+é quando voce monta sua propria estrutura (network, hardware, manutenção), quando nao queremos que uma empresa terceira faça manutenção. Uma nuvem privada consiste em recursos de computação em nuvem usados exclusivamente por uma única empresa ou organização. A nuvem privada pode estar localizada fisicamente no datacenter local da sua organização ou pode ser hospedada por um provedor de serviços terceirizado. Mas em uma nuvem privada, os serviços e a infraestrutura são sempre mantidos na rede privada e o hardware e o software são dedicados unicamente à sua organização.
+
+12.3 o que é public cloud?
+azure, aws, google cloud. eles tomam conta de toda a parte fisica e voce so aluga a parte virtual. Os recursos da empresa cloud estão disponiveis para todo o publico. As nuvens públicas são a maneira mais comum de implantação da computação em nuvem. Os recursos de nuvem (como servidores e armazenamento) pertencem a um provedor de serviço de nuvem terceirizado, são operados por ele e entregues pela Internet. Com uma nuvem pública, todo o hardware, software e outras infraestruturas de suporte são de propriedade do provedor de nuvem e gerenciadas por ele. O Microsoft Azure é um exemplo de nuvem pública.
+Em uma nuvem pública, você compartilha os mesmos dispositivos de hardware, de armazenamento e de rede com outras organizações ou "locatários" da nuvem e acessa serviços e gerencia sua conta usando um navegador da Web. As implantações de nuvem pública geralmente são usadas para fornecer email baseado na Web, aplicativos de escritório online, armazenamento e ambientes de desenvolvimento e teste.
+
+12.4 o que é hybrid cloud?
+é o mix de public e private. uma vm na publica com uma software no privado. Uma nuvem híbrida é um tipo de computação em nuvem que combina uma infraestrutura local ou nuvem privada com uma nuvem pública. As nuvens híbridas permitem que os dados e aplicativos se movam entre os dois ambientes.
+Muitas organizações adotam a abordagem de nuvem híbrida devido a exigências comerciais, por exemplo, para atender a requisitos regulatórios e de soberania de dados, aproveitar ao máximo o investimento em tecnologia local ou lidar com problemas envolvendo latência baixa.
+A nuvem híbrida está evoluindo para incluir cargas de trabalho de borda também. A computação de borda traz a potência de computação da nuvem para dispositivos IoT, mais perto de onde os dados residem. Ao mover as cargas de trabalho para a borda, os dispositivos gastam menos tempo se comunicando com a nuvem, o que reduz a latência e permite a eles até mesmo operar de maneira confiável por períodos offline estendidos.
+
+12.5 quais as vantagens de uma nuvem privada?
+Maior flexibilidade – sua organização pode personalizar seu ambiente de nuvem para atender a necessidades de negócios específicas.
+Maior controle – os recursos não são compartilhados com outros usuários, portanto, é possível um nível maior de controle e privacidade.
+Maior escalabilidade –nuvens privadas geralmente oferecem mais escalabilidade em comparação com a infraestrutura local.
+
+12.6. 
