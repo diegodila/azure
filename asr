@@ -66,4 +66,20 @@ Maior flexibilidade – sua organização pode personalizar seu ambiente de nuve
 Maior controle – os recursos não são compartilhados com outros usuários, portanto, é possível um nível maior de controle e privacidade.
 Maior escalabilidade –nuvens privadas geralmente oferecem mais escalabilidade em comparação com a infraestrutura local.
 
-12.6. 
+17.1 o que é latencia?
+é quanto tempo a comunicação demora pra ir e voltar
+
+18.1 o que é um grupo de recursos azure? 
+voce consegue colocar em grupos de regioes ou de grupos, dentro desse grupos eu posso visualizar os recursos que eu tenho
+
+18.2 é possivel visualizar por grupo de recurso quando esta sendo gasto?
+sim
+
+18.3 qual o software, application or service que gerencia o resource group da azure?
+azure resource manager
+
+20.1 o que é necessario para criar um resource group?
+nome, e regiao
+
+20.2 quais sistemas operacionais podemos ter como imagem de maquinas virtuais no azure?
+windows, linux
