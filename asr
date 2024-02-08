@@ -83,3 +83,20 @@ nome, e regiao
 
 20.2 quais sistemas operacionais podemos ter como imagem de maquinas virtuais no azure?
 windows, linux
+
+20.3 quais os principais topicos para configurações de virtual machines no azure?
+basics, disks, networking, management, monitoring, advanced, tags
+
+22.1 quando estamos excluindo uma vm, o que é necessario excluir tambem para nao gerar custos adicionais?
+disco do sistema operacional e interface de redes
+
+23.1 o que é cli?
+command line interface
+
+23.2 qual a diferenca entre o cloud shell e powershell?
+sintaxe
+
+25.1 o que é uma scale set?
+é um gerenciamento de carga de virtual machines, permitindo configurar, gerir e atualizar um conjunto de maquinas virtuais
+
+25.2 
