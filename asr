@@ -31,7 +31,7 @@ através do painel de configuração da maquina conseguimos fazer o aumento ou d
 9.5 em cloud computing precisamos nos preocupar com a estrutura da maquina/servidor?
 não, energia, temperatura e backup é por conta da provedora cloud
 
-9.6 no segmento de vms qual é a unidade de medida para cobrança?
+9.6 no segmento de vm's qual é a unidade de medida para cobrança?
 é cobrado por segundos
 
 10.1 quais sao os 3 tipos de modelos de cloud que podemos usar na azure?
@@ -41,7 +41,7 @@ iaas, paas and saas
 infrastructure as a service (physical server)
 
 10.3 what is paas?
-platform as a service (application cdn(content delivery network) cosmo db)
+platform as a service (application cdn (content delivery network) cosmo db)
 
 10.4 what is saas?
 software as a service (office 365)
@@ -64,7 +64,7 @@ A nuvem híbrida está evoluindo para incluir cargas de trabalho de borda també
 12.5 quais as vantagens de uma nuvem privada?
 Maior flexibilidade – sua organização pode personalizar seu ambiente de nuvem para atender a necessidades de negócios específicas.
 Maior controle – os recursos não são compartilhados com outros usuários, portanto, é possível um nível maior de controle e privacidade.
-Maior escalabilidade –nuvens privadas geralmente oferecem mais escalabilidade em comparação com a infraestrutura local.
+Maior escalabilidade – nuvens privadas geralmente oferecem mais escalabilidade em comparação com a infraestrutura local.
 
 17.1 o que é latencia?
 é quanto tempo a comunicação demora pra ir e voltar
