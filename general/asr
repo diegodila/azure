@@ -111,3 +111,68 @@ azure virtual desktop
 30.1 o que é azure functions?
 Azure Functions is a serverless solution that allows you to write less code, maintain less infrastructure, and save on costs.
 
+30.2 o que é ipv4?
+internet protocol version 4
+
+30.3 quantas sequencias sao dividos os ipv4?
+sao em 4 sequencias
+
+31.1 o que é vnet?
+redes virtuais do azure, que permitem que recursos do azure como vm se comuniquem entre si. 
+
+31.2 o que é ip?
+internet protocol 
+
+31.3 quais tipos de numeros para enchergamos o ipv4 utiliza, e qual a definição de representação do ipv4?
+decimais e binários, 32 bits
+
+31.4 como é representado os numeros do ipv6?
+em hexadecimais e binários, 128 bits
+
+31.5 eu posso ter 2 computador com o mesmo endereço em uma rede?
+não
+
+31.6 por quantos numeros de classes posso representar meu ipv4?
+8 octetos
+
+31.7 como eu defino que um ipv4 é de classeA? 
+o primeiro octeto está entre 0 e 127
+
+31.8 como eu defino que um ipv4 é de classeB?
+o primeiro octeto está entre 128 e 191
+
+31.9 como eu defino que um ipv4 é de classeC?
+o primeiro octeto está entre 192 e 223
+
+31.10 como eu defino que um ipv4 é de classeD?
+o primeiro octeto está entre 224 e 239
+
+31.11 como eu defino que um ipv4 é de classeC?
+o primeiro octeto está entre 240 e 255
+
+31.12 quais são as classes utilizadas para atribuir endereços as hosts?
+classe a, b, c
+
+31.13 quais são as classes especiais?
+classe d, e
+
+31.14 qual o destino da classeD em redes?
+destinada a endereços de multicast
+
+31.15 qual o destino da classeE em redes?
+destinada a testes de nova tecnologia
+
+31.16 o que é cast?
+transmitir
+
+31.17 o que é unicast?
+uma transmissao para uma unica pessoa, unico computador, unico host
+
+31.18 o que é multicast?
+transmissao para multiplos hosts, multiplos computadores
+
+31.19 o que é broadcast?
+transmistir para todos os hosts
+
+31.20 o que é anycast?
+transmitir para qualquer um, transmitir para qualquer host 
