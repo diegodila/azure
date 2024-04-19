@@ -172,7 +172,7 @@ uma transmissao para uma unica pessoa, unico computador, unico host
 transmissao para multiplos hosts, multiplos computadores
 
 31.19 o que é broadcast?
-transmistir para todos os hosts
+transmistir para todos os hosts da mesma rede
 
 31.20 o que é anycast?
 transmitir para qualquer um, transmitir para qualquer host 
